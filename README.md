@@ -77,4 +77,4 @@ This project can be packaged into a standalone executable using `pkg`.
 This project is licensed under the ISC License.
 
 ## Author
-Created by ![https://www.samsam123.name.my](Sam Sam)
+Created by [Sam Sam](https://www.samsam123.name.my)
