@@ -34,8 +34,8 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/tarumt-wifi.git
-   cd tarumt-wifi
+   git clone https://github.com/samleong123/tarumt-wifi-autoconnect.git
+   cd tarumt-wifi-autoconnect
    ```
 
 2. **Install Dependencies:**
